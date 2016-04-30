@@ -1,0 +1,13 @@
+*.py[cod]
+*.db
+.env
+.enviroment
+.coverage
+.cache
+.idea/
+local_config.py
+htmlcov/
+artifacts/
+bower_components/
+node_modules/
+*.orig
